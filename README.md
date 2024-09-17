@@ -2,6 +2,8 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+1. testing Vercel functions, edge and serverless
+
 ## Getting Started
 
 First, run the development server:
